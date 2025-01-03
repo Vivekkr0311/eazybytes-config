@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "[Prod]: Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Vivek Kumar - Developer"
+    email: "vivek@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
